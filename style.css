@@ -36,8 +36,9 @@ main {
     padding-right: 240px;
 }
 footer {
-    background-color: greenyellow;
+    background-color: rgba(0, 0, 0, 0.322);
     height: 100px;
+    color: white;
 }
 h1 {
     font-size: 84px;
@@ -60,4 +61,7 @@ nav a {
     font-size: 12px;
     display: inline-block;
     padding: 14px 16px;
+}
+.map {
+    padding-bottom: 100px;
 }
